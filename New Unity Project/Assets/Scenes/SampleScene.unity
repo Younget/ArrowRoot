@@ -163,7 +163,7 @@ PrefabInstance:
     - target: {fileID: 7690253643257632912, guid: 3bf3118aabc9ddc46aeeb7a8a776a6c2,
         type: 3}
       propertyPath: m_Constraints
-      value: 1
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7690253643257632917, guid: 3bf3118aabc9ddc46aeeb7a8a776a6c2,
         type: 3}
@@ -389,7 +389,7 @@ MonoBehaviour:
   minDelay: 1
   maxDelay: 14
   enemyThing:
-  - {fileID: 7325826863048031636, guid: c24fd39261c0a7e498fbd17d53217833, type: 3}
+  - {fileID: 7325826863048031636, guid: 3eeefa4879510e8459d5199fa01ced39, type: 3}
 --- !u!4 &744782347
 Transform:
   m_ObjectHideFlags: 0
